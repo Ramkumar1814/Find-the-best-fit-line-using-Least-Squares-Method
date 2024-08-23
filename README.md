@@ -55,6 +55,7 @@ plt.show()
 ## Output:
 ## slope And Intercept
 -4.492455418381343 35.7517146776406
+## Y Intercept
 ![Screenshot 2024-08-23 111138](https://github.com/user-attachments/assets/b22cffb8-e60a-4ff4-965b-8ba348f93891)
 
 
